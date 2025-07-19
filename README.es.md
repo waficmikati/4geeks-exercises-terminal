@@ -1,2 +1,2 @@
 # Ejercicio terminal
-Mi propuesta para el Reto de Línea de Comandos de 4Geeks.
+Mi propuesta para el Reto de la Terminal de 4Geeks.
